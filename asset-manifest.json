@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/testapp/static/css/main.3167d763.chunk.css",
+    "main.js": "/testapp/static/js/main.91df2054.chunk.js",
+    "main.js.map": "/testapp/static/js/main.91df2054.chunk.js.map",
+    "runtime-main.js": "/testapp/static/js/runtime-main.10e62d3c.js",
+    "runtime-main.js.map": "/testapp/static/js/runtime-main.10e62d3c.js.map",
+    "static/js/2.c6766cb5.chunk.js": "/testapp/static/js/2.c6766cb5.chunk.js",
+    "static/js/2.c6766cb5.chunk.js.map": "/testapp/static/js/2.c6766cb5.chunk.js.map",
+    "static/js/3.2de9f8d4.chunk.js": "/testapp/static/js/3.2de9f8d4.chunk.js",
+    "static/js/3.2de9f8d4.chunk.js.map": "/testapp/static/js/3.2de9f8d4.chunk.js.map",
+    "index.html": "/testapp/index.html",
+    "static/css/main.3167d763.chunk.css.map": "/testapp/static/css/main.3167d763.chunk.css.map",
+    "static/js/2.c6766cb5.chunk.js.LICENSE.txt": "/testapp/static/js/2.c6766cb5.chunk.js.LICENSE.txt",
+    "static/media/competition.23357f1f.png": "/testapp/static/media/competition.23357f1f.png",
+    "static/media/contact.08093bad.png": "/testapp/static/media/contact.08093bad.png",
+    "static/media/price.7157d7ef.png": "/testapp/static/media/price.7157d7ef.png",
+    "static/media/register-img.16de46b2.png": "/testapp/static/media/register-img.16de46b2.png",
+    "static/media/team.cd35156d.png": "/testapp/static/media/team.cd35156d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10e62d3c.js",
+    "static/js/2.c6766cb5.chunk.js",
+    "static/css/main.3167d763.chunk.css",
+    "static/js/main.91df2054.chunk.js"
+  ]
+}
