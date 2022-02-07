@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Karla:wght@200&display=swap');
+
+.img{
+    width: 30rem;
+    margin-top: 11rem;
+    margin-left: 4rem;
+  
+    
+}
+.card{
+    margin-top: 1%;
+    height: 90%;
+    /* background: url(../image/background.jpeg) no-repeat; */
+    /* background-attachment: fixed; */
+    /* height: 100vh; */
+    /* background-size: cover; */
+    padding: 3rem;
+    margin-bottom: 4%;
+    
+}
+.contactUs-txt{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-family:  sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+.text-field{
+    text-align: center;
+    margin-bottom: 15px;
+}
+#contact-icon{
+    font-size: 70px;
+    color: #3FA0DE;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.row1{
+    /* border: 1px solid red; */
+    padding: 10px 10px 20px 10px;
+}
+.submit-btn{
+    text-align: center;
+   
+}
